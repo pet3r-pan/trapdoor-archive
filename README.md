@@ -1,2 +1,2 @@
 # trapdoor-archive
-Collection of significant papers, research and articles on cryptography and mathematics
+Collection of papers, research and articles on cryptography and mathematics
