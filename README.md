@@ -1,2 +1,2 @@
 # trapdoor-archive
-Collection of papers and books on cryptography
+Collection of papers and books on cryptography.
