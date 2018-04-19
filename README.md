@@ -1,5 +1,7 @@
 # Trapdoor Archive
-Collection of papers and books on cryptography.
+Pet3rpan's digital junk
+
+You will find papers and resources on mainly cryptography, mathematics, economics, security engineering
 
 https://ee.stanford.edu/~hellman/publications/24.pdf
 
